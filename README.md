@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is the first Project for Udacity's React Fundamentals course. It is a project that manages a users reading acitivities. A user can keep track of .
+MyReads is a project that manages a users reading acitivities. A user can keep track of books that currently Reading, want To Read, read.
 
 Also, the user can search for new books using the api and then add to any of the categories as per the user's need.
 ### App features,
@@ -15,9 +15,14 @@ Also, the user can search for new books using the api and then add to any of the
 2. Users can move the book across different shelves. 
 3. App also supports a search feature, where users will be able to find books by title or author name.
 
+## ScreenShots
+[![MyReads](p1.png)](p1.png)
+[![MyReads](p2.png)](p2.png)
+[![MyReads](p3.png)](p3.png)
+[![MyReads](p4.png)](p4.png)
 ## TL;DR
 
-To get started developing right away:
+To get started right away:
 
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
